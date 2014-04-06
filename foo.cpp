@@ -7,3 +7,8 @@ int minus2num( int a, int b )
 {
 	return a - b;
 }
+
+int multi2num( int a, int b )
+{
+	return a * b;
+}
