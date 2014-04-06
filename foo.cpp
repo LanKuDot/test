@@ -15,5 +15,5 @@ int multi2num( int a, int b )
 
 int main()
 {
-	int result = sum2num( 2, 14 ) + minus2num( 2, 14 );
+	int result = sum2num( 2, 14 ) + minus2num( 2, 14 ) + multi2num( 2, 14 );
 }
