@@ -1,2 +1,3 @@
 測試遠端branch merge功能
 testing rebase
+test rebase with conflict
